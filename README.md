@@ -1,7 +1,7 @@
 # Práctica 3 – Árbol de Decisión  
 **Curso:** Análisis de Algoritmos  
 **Universidad Da Vinci de Guatemala**  
-**Estudiante:** Hugo Breganza 
+**Estudiante:** Hugo Breganza aunque es prueba de cambio
 **Carnet:** 202301727 
 **Fecha:** Noviembre 2025  
 
