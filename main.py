@@ -1,7 +1,7 @@
 """
 main.py
 Práctica 3 – Árbol de Decisión Simple
-Autor: Allan (coloca tu nombre real aquí)
+Autor: Hugo Breganza 202301727
 Curso: Análisis de Algoritmos
 
 Este script:
