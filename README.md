@@ -1,8 +1,8 @@
 # Práctica 3 – Árbol de Decisión  
 **Curso:** Análisis de Algoritmos  
 **Universidad Da Vinci de Guatemala**  
-**Estudiante:** Allan (coloca tu nombre)  
-**Carnet:** (tu carnet)  
+**Estudiante:** Hugo Breganza 
+**Carnet:** 202301727 
 **Fecha:** Noviembre 2025  
 
 ---
@@ -53,6 +53,28 @@ El árbol utilizado tiene:
 
 ---
 
-## 📌 Resultados (ejemplo)
-(Estos se llenan con lo que imprima tu consola.)
+## 📌 Resultados
+C:\[AA]Practica_ArbolDecision_202301727>python main.py
+[INFO] Archivo encontrado: data\numeros_1000.txt
+
+--- Ejemplos (primeros 10) ---
+38 → Bajo
+4 → Bajo
+23 → Bajo
+1 → Bajo
+85 → Alto
+10 → Bajo
+7 → Bajo
+35 → Bajo
+4 → Bajo
+15 → Bajo
+
+--- Conteo total ---
+Altos: 494
+Bajos: 506
+
+Tiempo total de ejecución: 0.0087 segundos
+
+C:\[AA]Practica_ArbolDecision_202301727>
+
 
