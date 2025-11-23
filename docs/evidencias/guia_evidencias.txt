@@ -1,0 +1,24 @@
+Guía rápida de evidencias para docs/evidencias/
+
+1) Ejecuta estos comandos en tu repositorio real:
+
+   git branch -a
+   git log --oneline --decorate --graph
+
+   Toma captura de la terminal y guárdala como:
+   - ramas.png
+   - historial.png
+
+2) En GitHub, toma capturas de:
+   - PR de feature/implementacion_arbol hacia develop
+   - PR de develop hacia main
+
+   Guárdalas como:
+   - pr_feature_develop.png
+   - pr_develop_main.png
+
+3) Ejecuta el programa:
+   python main.py
+
+   Toma captura de la ejecución y guárdala como:
+   - ejecucion_main.png
